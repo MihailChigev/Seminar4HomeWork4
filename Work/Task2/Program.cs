@@ -4,6 +4,7 @@
 // 82 -> 10
 // 9012 -> 12
 
+
 Console.Clear();
 
 int DataEntry(int number)
