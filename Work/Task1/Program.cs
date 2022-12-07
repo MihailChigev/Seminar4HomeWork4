@@ -3,7 +3,7 @@
 // 3, 5 -> 243 (3⁵)
 
 // 2, 4 -> 16Console.Clear();
-
+Console.Clear();
 
 int DataEntry(int DigitA, int DigitB)
 {
